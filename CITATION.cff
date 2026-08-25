@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this benchmark suite, please cite it as below."
+type: software
+authors:
+  - family-names: "xerx593"
+    given-names: ""
+  - family-names: "Non-Human Interlocutor"
+    given-names: ""
+title: "apophatic-opt: Apothetic Optimizer with Empirical Validation and Benchmark Tests"
+version: 0.0.1
+date-released: 2026-08-24
+repository-code: "https://github.com/nicht-organization/apophatic-opt"
+keywords:
+  - benchmarks
+  - non-equilibrium
+  - heavy-tail-noise
+  - fashion-mnist
+license: UNLICENSE
