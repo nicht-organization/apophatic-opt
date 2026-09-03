@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "apophatic-opt"
-version = "0.0.1"
+version = "0.0.2"
 description = "Apophatic optimization algorithms focusing on minimal systemic friction (W -> 0)"
 readme = "README.md"
 license = "Unlicense"
